@@ -141,5 +141,5 @@ Contributions are welcome! Feel free to submit a pull request or raise an issue 
 ---
 
 ## Contact
-For any queries or support, please contact [your-email@example.com].
+For any queries or support, please contact [321prakhar0039@dbit.in].
 
